@@ -1,8 +1,4 @@
-<h1 align="centre">DAISYXMUSIC V5.0 🎵</h1>
-
-### A bot that can play music on Telegram Group and Channel Voice Chats
-#### POWERED BY [MARSHALX TGCALLS](https://github.com/MarshalX/tgcalls)
-### Available on telegram as [@DaisyXbot](https://t.me/daisyxbot)
+<h1 align="centre">NoorMusic</h1>
 
 <p align="center">
   <img src="https://telegra.ph/file/dd04b1968f1bc1169d162.jpg">
@@ -26,7 +22,7 @@
 
 ### 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TeamDaisyX/DaisyXMusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Noor12shah/NoorMusic)
 
 Get pyrogram (p)  `SESSION` from here:
 
@@ -88,12 +84,6 @@ For linked group admins only:
 - `/userbotjoinchannel` - invite assistant to your chat
 * channel is also can be used instead of c
 
-If you donlt like to play in linked channel:
- 1. Get your channel ID.
- 2. Rename your group to: Channel Music: your_channel_id
- 3. Add @DaisyXBot as Channel admin with full perms
- 4. add helper to channel
- 5. Simply send commands in your group.
 
 ### Commands for Sudo Users ⚔️
 - `/userbotleaveall` - remove assistant from all chats
@@ -105,25 +95,3 @@ If you donlt like to play in linked channel:
 - `.da` - disapproove someone to pm you
 + Sudo Users can execute any command in any groups
 
-### Credits
-Don't edit this part
-
-#### Special Credits
-- [Rojserbest](http://github.com/rojserbes): Callsmusic Developer
-
-This bot is based on the original work done by [Rojserbest](http://github.com/rojserbest). Without his hardwork daisyxmusic won't exist. 
-DaisyXmusic is a modified version of [Callsmusic](https://github.com/callsmusic/callsmusic) for fit the needs of @DaisyXbot users
-
-#### Contribtors
-- [InukaASiTH](https://github.com/InukaAsith): Dev
-- [Technical-Hunter](https://github.com/Technical-Hunter): Dev
-- [Rojserbest](http://github.com/rojserbest): Dev
-- [Wrench](https://github.com/EverythingSuckz/): Dev
-- [Bemro](https://github.com/bemroofficial): Dev
-- [QueenArzoo](https://github.com/QueenArzoo): Dev
-- [lucifeermorningstar](https://github.com/lucifeermorningstar): Dev
-- [Hamker Cat](https://github.com/thehamkercat/)
-- [Anjana-Ma](https://github.com/Anjana-Ma): 
-- [ImJanindu](https://github.com/ImJanindu): 
-- [MARSHALX](https://github.com/MarshalX): TgCalls
-- [Original Repo owners](https://github.com/CallsMusic/CallsMusic)
