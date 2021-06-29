@@ -1,7 +1,7 @@
 <h1 align="centre">NoorMusic</h1>
 
 <p align="center">
-  <img src="https://telegra.ph/file/dd04b1968f1bc1169d162.jpg">
+  <img src="https://telegra.ph/file/d104d5fba4bd44b7e923e.jpg">
 </p>
 
 <h2> Features 🔥 </h2>
